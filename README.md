@@ -4,7 +4,7 @@
 * Age: **21 years**  
 * Email: marwaayosiif@yahoo.com  
 * [GitHub](https://github.com/marwaayosiif)
-* <a href="https://salmazakariia.github.io/Thoracic-Surgery/" target="_blank">Blog </a>
+* <a href="https://salmazakariia.github.io/ThoracicSurgery/" target="_blank">Blog </a>
 ## Education:
 * **Cairo University**, 
   * Faculty of Engineerin,
